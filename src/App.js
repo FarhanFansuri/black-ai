@@ -17,9 +17,7 @@ const App = () => {
         <p className="text-gray-600">
           Please check back later or contact us if you need immediate assistance.
         </p>
-        <button className="mt-6 px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-500">
-          Contact Support
-        </button>
+      
       </div>
     </div>
   );
